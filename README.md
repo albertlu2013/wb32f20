@@ -11,7 +11,12 @@
 
 2.Double lick **wb32f10.ino** in the wb32f10 project directory.
 
-<img src="jpg/01.jpg" width=80%>
+<img src="jpg/dir01.png" width=80%>
+
+3.Double lick **wb32f10.ino** in the wb32f10 project directory.
+
+<img src="jpg/esp32comport.png" width=80%>
+<img src="jpg/esp32devmodule.png" width=80%>
 
 3.The **source** code of wb32f10.ino will be shown.
 
